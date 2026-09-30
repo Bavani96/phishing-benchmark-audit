@@ -1,3 +1,5 @@
+Archived version: https://doi.org/10.5281/zenodo.23051825
+
 # Phishing Benchmark Audit
 
 Code accompanying:
